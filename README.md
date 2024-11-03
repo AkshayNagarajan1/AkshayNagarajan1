@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AkshayNagarajan1
+- 👀 I’m interested in scientific data analysis through the means of coding, dashboards and MATlab.
+- 🌱 I’m currently learning server hosting for my website
+- ⚡ Fun fact: I am interested in astrophysics and hoping to build me intelectual ability in data science.
